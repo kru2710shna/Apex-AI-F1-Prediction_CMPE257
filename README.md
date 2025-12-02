@@ -1,13 +1,15 @@
 # Formula 1: Championship and Race Result Prediction
+https://github.com/kru2710shna/Apex-AI-F1-Prediction_CMPE275
 
 This project leverages the Formula 1 Race dataset from various sources to perform exploratory data analysis, data preparation, and machine learning modeling on Formula 1 racing data.
 
 ## Project Structure
 1. Merge, clean up and generate master data set:
-https://github.com/kru2710shna/CSC255/blob/main/data_preparation/dataprepare_constructor-3.ipynb
+https://github.com/kru2710shna/Apex-AI-F1-Prediction_CMPE275/blob/main/data_preparation/dataprepare_constructor-3.ipynb
+https://github.com/kru2710shna/Apex-AI-F1-Prediction_CMPE275/blob/main/data_preparation/final_data_prep_driver.py
 
-2. Model traing and plot: 
-https://github.com/kru2710shna/CSC255/blob/main/MODEL_TRAINING_CONSTRUCTOR/CONSTRUCTOR_TRAINING-2.ipynb 
+3. Model traing and plot: 
+https://github.com/kru2710shna/Apex-AI-F1-Prediction_CMPE275/blob/main/MODEL_TRAINING_CONSTRUCTOR/CONSTRUCTOR_TRAINING-2.ipynb 
 
 ## References:
 
